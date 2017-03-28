@@ -78,7 +78,8 @@
     </script>
 
 
-<link href="/resources/assets/WebResource.axd" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/resources/assets/WebResource2.axd" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/resources/assets/WebResource3.axd" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+<link href="/resources/assets/WebResource.axd" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/resources/assets/WebResource2.axd" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/resources/assets/WebResource3.axd" type="text/css" rel="stylesheet" class="Telerik_stylesheet" />
+</head>
 <body class="body" onload='popunder();'>
 
     <form name="form1" method="post" action="" id="form1">
